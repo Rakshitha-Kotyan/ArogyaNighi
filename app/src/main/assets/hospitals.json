@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "name": "Victoria Hospital",
+    "district": "Bangalore Urban",
+    "pincode": "560002",
+    "address": "Fort Road, Krishnarajendra Circle, Bengaluru",
+    "phone": "080-26701150",
+    "schemes_accepted": ["ayushman_bharat", "state_health_card", "esi_scheme"],
+    "specialities": ["General Surgery", "Orthopaedics", "Medicine", "Paediatrics"],
+    "type": "Government"
+  },
+  {
+    "id": 2,
+    "name": "Bowring & Lady Curzon Hospital",
+    "district": "Bangalore Urban",
+    "pincode": "560001",
+    "address": "Shivajinagar, Bengaluru",
+    "phone": "080-25320231",
+    "schemes_accepted": ["ayushman_bharat", "state_health_card"],
+    "specialities": ["General Medicine", "Surgery", "Gynaecology", "ENT"],
+    "type": "Government"
+  },
+  {
+    "id": 3,
+    "name": "Narayana Health City",
+    "district": "Bangalore Urban",
+    "pincode": "560099",
+    "address": "258/A, Bommasandra Industrial Area, Bengaluru",
+    "phone": "1800-102-0250",
+    "schemes_accepted": ["ayushman_bharat", "esi_scheme"],
+    "specialities": ["Cardiology", "Oncology", "Neurology", "Transplant"],
+    "type": "Private Empaneled"
+  },
+  {
+    "id": 4,
+    "name": "District Hospital Mysuru",
+    "district": "Mysuru",
+    "pincode": "570001",
+    "address": "Irwin Road, Mysuru",
+    "phone": "0821-2442222",
+    "schemes_accepted": ["ayushman_bharat", "state_health_card", "janani_shishu_suraksha"],
+    "specialities": ["General Medicine", "Gynaecology", "Surgery", "Paediatrics"],
+    "type": "Government"
+  },
+  {
+    "id": 5,
+    "name": "General Hospital Hubli",
+    "district": "Dharwad",
+    "pincode": "580020",
+    "address": "PB Road, Hubli",
+    "phone": "0836-2362625",
+    "schemes_accepted": ["ayushman_bharat", "state_health_card"],
+    "specialities": ["General Medicine", "Surgery", "Paediatrics", "Gynaecology"],
+    "type": "Government"
+  },
+  {
+    "id": 6,
+    "name": "District Hospital Mangaluru",
+    "district": "Dakshina Kannada",
+    "pincode": "575001",
+    "address": "Hampankatta, Mangaluru",
+    "phone": "0824-2220284",
+    "schemes_accepted": ["ayushman_bharat", "state_health_card", "janani_shishu_suraksha"],
+    "specialities": ["General Medicine", "Gynaecology", "Paediatrics", "ENT"],
+    "type": "Government"
+  }
+]

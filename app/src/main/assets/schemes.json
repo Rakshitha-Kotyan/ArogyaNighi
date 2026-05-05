@@ -1,0 +1,135 @@
+[
+  {
+    "id": "ayushman_bharat",
+    "name": "Ayushman Bharat - PMJAY",
+    "description": "Pradhan Mantri Jan Arogya Yojana provides health cover of Rs. 5 lakh per family per year for secondary and tertiary care hospitalisation.",
+    "benefit_amount": "₹5,00,000 per year",
+    "eligibility": {
+      "max_income": 200000,
+      "bpl_required": false,
+      "occupations": ["daily_wage", "farmer", "construction_worker", "domestic_worker", "street_vendor", "rag_picker", "sanitation_worker", "all"],
+      "states": ["all"],
+      "max_family_size": 99
+    },
+    "documents": [
+      "Aadhaar Card (all family members)",
+      "Ration Card / BPL Card",
+      "Income Certificate",
+      "Caste Certificate (if applicable)",
+      "Mobile Number linked with Aadhaar",
+      "Passport size photographs"
+    ],
+    "color": "#2E7D32",
+    "icon": "health_and_safety"
+  },
+  {
+    "id": "state_health_card",
+    "name": "State Health Card (Arogya Karnataka)",
+    "description": "Karnataka state health scheme providing cashless treatment at government and empaneled private hospitals.",
+    "benefit_amount": "₹1,50,000 per year",
+    "eligibility": {
+      "max_income": 150000,
+      "bpl_required": false,
+      "occupations": ["daily_wage", "farmer", "construction_worker", "domestic_worker", "all"],
+      "states": ["Karnataka"],
+      "max_family_size": 99
+    },
+    "documents": [
+      "Aadhaar Card",
+      "Residence Proof (Karnataka domicile)",
+      "Income Certificate (< ₹1.5 Lakh)",
+      "Ration Card",
+      "Recent Passport Photo",
+      "Bank Passbook copy"
+    ],
+    "color": "#1565C0",
+    "icon": "local_hospital"
+  },
+  {
+    "id": "esi_scheme",
+    "name": "Employees State Insurance (ESI)",
+    "description": "ESI Scheme provides comprehensive medical care to workers and their families.",
+    "benefit_amount": "Full medical coverage",
+    "eligibility": {
+      "max_income": 2100000,
+      "bpl_required": false,
+      "occupations": ["factory_worker", "industrial_worker"],
+      "states": ["all"],
+      "max_family_size": 99
+    },
+    "documents": [
+      "Employer ESI Registration Letter",
+      "Aadhaar Card",
+      "Salary Slip",
+      "Employee ID",
+      "Family member Aadhaar Cards",
+      "Passport Photos"
+    ],
+    "color": "#6A1B9A",
+    "icon": "work"
+  },
+  {
+    "id": "janani_shishu_suraksha",
+    "name": "Janani Shishu Suraksha Karyakram",
+    "description": "Free and cashless services to pregnant women and sick newborns including delivery, C-section, and medicines.",
+    "benefit_amount": "Free delivery & newborn care",
+    "eligibility": {
+      "max_income": 999999,
+      "bpl_required": false,
+      "occupations": ["all"],
+      "states": ["all"],
+      "max_family_size": 99
+    },
+    "documents": [
+      "Aadhaar Card",
+      "Mother and Child Protection Card",
+      "Antenatal Care records",
+      "Hospital admission form"
+    ],
+    "color": "#C62828",
+    "icon": "pregnant_woman"
+  },
+  {
+    "id": "rashtriya_bal_swasthya",
+    "name": "Rashtriya Bal Swasthya Karyakram",
+    "description": "Child health screening and early intervention for children aged 0-18 years.",
+    "benefit_amount": "Free treatment up to ₹1,00,000",
+    "eligibility": {
+      "max_income": 999999,
+      "bpl_required": false,
+      "occupations": ["all"],
+      "states": ["all"],
+      "max_family_size": 99
+    },
+    "documents": [
+      "Birth Certificate of Child",
+      "Aadhaar Card of Parents",
+      "School ID (for school-going children)",
+      "Ration Card"
+    ],
+    "color": "#E65100",
+    "icon": "child_care"
+  },
+  {
+    "id": "central_govt_health",
+    "name": "Central Government Health Scheme (CGHS)",
+    "description": "Comprehensive healthcare for central government employees and pensioners.",
+    "benefit_amount": "Full healthcare coverage",
+    "eligibility": {
+      "max_income": 9999999,
+      "bpl_required": false,
+      "occupations": ["government_employee"],
+      "states": ["all"],
+      "max_family_size": 99
+    },
+    "documents": [
+      "Government Employee ID",
+      "CGHS Card",
+      "Aadhaar Card",
+      "Service Certificate",
+      "Family member details"
+    ],
+    "color": "#00695C",
+    "icon": "account_balance"
+  }
+]

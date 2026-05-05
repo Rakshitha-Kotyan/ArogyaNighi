@@ -89,13 +89,13 @@ app/
 
 
 ### Quiz Screen
-![Quiz](images/1.png)
-![](images/2.png)
-![](images/3.png)
-![](images/4.png)
-![](images/5.png)
+![Quiz](Images/1.png)
+![](Images/2.png)
+![](Images/3.png)
+![](Images/4.png)
+![](Images/5.png)
 
 ### Result Screen
-![Result](images/6.png)
-![](images/7.png)
+![Result](Images/6.png)
+![](Images/7.png)
 
